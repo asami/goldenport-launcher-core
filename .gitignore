@@ -3,5 +3,6 @@
 /.bloop/
 /.metals/
 /project/target/
+maven-local
 *.class
 *.log
